@@ -8,7 +8,7 @@
 # 模板消息id
 "template_id": "NabdBamAnXekxbqrZxu4v6XcHO3Gp6k2bJxh1IKgLbU",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oTxko6mNf8J4oud4FX7popucWzAQ"],
+"user": ["oTxko6mNf8J4oud4FX7popucWzAQ","oTxko6mmwZ77RDQYToWeTnAOqSbo"],
 
 # 信息配置
 # 所在省份   不加省，河北省写河北
@@ -18,7 +18,7 @@
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "BB邱", "birthday": "1994-11-18"},
 # 生日2
-"birthday2": {"name": "BB邱", "birthday": "1994-11-18"},
+"birthday2": {"name": "jiongsca", "birthday": "1994-06-21"},
 # 在一起的日子，格式同上
 "love_date": "2022-08-22"
 }
